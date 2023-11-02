@@ -8,4 +8,4 @@ Tribute page I made as a certification project for freeCodeCamp
 ![Visual-Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Link to view the page: <a href="https://moonlightwaltz.github.io/TributePage_Project/">Tribute Page Project</a>
+Link to view the page: <a href="https://moonlightwaltz.github.io/TributePage_Project/" target="_blank">Tribute Page Project</a>
